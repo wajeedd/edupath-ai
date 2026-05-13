@@ -1,0 +1,46 @@
+﻿question_id,question_text,option_a,option_b,option_c,option_d,correct_answer,concept_tag,difficulty
+1,Ohm's Law states V = ?,IR,I/R,I+R,I-R,IR,Current Electricity,easy
+2,SI unit of resistance is?,Volt,Ampere,Ohm,Watt,Ohm,Current Electricity,easy
+3,Work done formula is?,Fs,F/s,F+s,mv,Fs,Work Power Energy,easy
+4,Unit of power is?,Newton,Watt,Joule,Volt,Watt,Work Power Energy,easy
+5,Which particle has negative charge?,Proton,Neutron,Electron,Photon,Electron,Atoms,easy
+6,Formula for kinetic energy is?,mv,1/2mv²,mgh,Fd,1/2mv²,Work Power Energy,medium
+7,Speed of light in vacuum is?,3×10^8 m/s,3×10^6 m/s,300 m/s,3×10^5 m/s,3×10^8 m/s,Optics,easy
+8,SI unit of force is?,Joule,Pascal,Newton,Watt,Newton,Laws of Motion,easy
+9,Newton's second law relates?,Force and mass,Voltage and current,Pressure and area,Heat and temperature,Force and mass,Laws of Motion,medium
+10,A device used to measure current is?,Voltmeter,Ammeter,Galvanometer,Barometer,Ammeter,Current Electricity,easy
+11,Potential energy formula is?,mgh,1/2mv²,Fs,Pt,mgh,Work Power Energy,easy
+12,Unit of frequency is?,Newton,Pascal,Hertz,Tesla,Hertz,Waves,easy
+13,Which wave can travel in vacuum?,Sound,Water,Light,Seismic,Light,Electromagnetic Waves,medium
+14,Mirror formula is?,1/f=1/v+1/u,V=IR,F=ma,P=W/t,1/f=1/v+1/u,Ray Optics,hard
+15,Magnetic field unit is?,Tesla,Henry,Weber,Coulomb,Tesla,Magnetism,medium
+16,Derivative of x² is?,x,2x,x²,1,2x,Differentiation,easy
+17,Integral of 1 dx is?,x,1,0,x²,x,Integration,easy
+18,Value of sin 90° is?,0,1,-1,01-Feb,1,Trigonometry,easy
+19,Formula of quadratic equation roots?,(-b±√(b²-4ac))/2a,ax+b,a²+b²,None,(-b±√(b²-4ac))/2a,Quadratic Equations,medium
+20,Derivative of sin x is?,cos x,#NAME?,tan x,sec x,cos x,Differentiation,medium
+21,Value of cos 0° is?,0,1,-1,01-Feb,1,Trigonometry,easy
+22,Integration of x dx is?,x²,x²/2,2x,1,x²/2,Integration,medium
+23,What is matrix determinant used for?,Area,Inverse check,Probability,Series,Inverse check,Matrices,hard
+24,Limit of sinx/x as x→0 is?,0,1,∞,-1,1,Limits,hard
+25,Equation of straight line is?,y=mx+c,a²+b²,x²+y²,None,y=mx+c,Coordinate Geometry,easy
+26,Value of tan 45° is?,0,1,√2,01-Feb,1,Trigonometry,easy
+27,Derivative of e^x is?,e^x,xe^x,lnx,1/e^x,e^x,Calculus,medium
+28,Number of solutions of quadratic equation depends on?,Discriminant,Coefficient,Sum,Product,Discriminant,Quadratic Equations,medium
+29,Area under curve is found using?,Differentiation,Integration,Matrix,Vector,Integration,Calculus,medium
+30,Value of log₁₀1 is?,0,1,10,Undefined,0,Logarithms,easy
+31,pH value of neutral solution is?,0,7,14,1,7,Acids Bases,easy
+32,Atomic number represents?,Neutrons,Electrons+protons,Protons,Mass,Protons,Atomic Structure,easy
+33,Chemical formula of water is?,CO2,H2O,O2,H2,H2O,Chemical Bonding,easy
+34,Avogadro number is?,6.022×10^23,3×10^8,9.8,1.6×10^-19,6.022×10^23,Mole Concept,medium
+35,Strongest intermolecular force is?,Hydrogen bond,Dipole force,London force,Covalent bond,Hydrogen bond,Chemical Bonding,hard
+36,SI unit of molarity is?,mol/L,gram/L,kg/L,mol/kg,mol/L,Solutions,easy
+37,Which gas is used in photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,Carbon dioxide,Environmental Chemistry,easy
+38,pH less than 7 indicates?,Neutral,Basic,Acidic,Salt,Acidic,Acids Bases,easy
+39,Atomic mass unit is abbreviated as?,amu,cm,kgm,mol,amu,Atomic Structure,easy
+40,Chemical symbol of Sodium is?,So,Sd,Na,N,Na,Periodic Table,easy
+41,Which acid is present in lemon?,Hydrochloric,Citric,Sulfuric,Nitric,Citric,Organic Chemistry,medium
+42,Boiling point of water is?,50°C,100°C,150°C,0°C,100°C,States of Matter,easy
+43,Which bond involves sharing electrons?,Ionic,Covalent,Metallic,Hydrogen,Covalent,Chemical Bonding,medium
+44,Oxidation means?,Gain of electrons,Loss of electrons,Neutralization,Melting,Loss of electrons,Redox Reactions,hard
+45,Catalyst increases reaction rate by?,Lowering activation energy,Increasing mass,Reducing temperature,Stopping reaction,Lowering activation energy,Chemical Kinetics,hard
